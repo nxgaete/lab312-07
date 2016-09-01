@@ -2,7 +2,7 @@
 #define   SPinit	0x24FF
  
             ORG 0xFF00
-texto       DB "Funciona!!"     ;Se inicializa el string
+texto       DB "ACA VA EL TEXTO :)"     ;Se inicializa el string
 
 main        ORG	0x2500				; Dirección de inicio del programa
 ;-------------------------------------------------------------------------------
